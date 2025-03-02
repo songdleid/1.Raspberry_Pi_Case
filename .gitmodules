@@ -1,0 +1,3 @@
+[submodule "raspi_solidwork_3D"]
+	path = raspi_solidwork_3D
+	url = git@github.com:songdleid/raspi_solidwork_3D.git
